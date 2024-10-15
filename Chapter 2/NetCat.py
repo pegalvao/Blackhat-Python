@@ -6,4 +6,4 @@ import sys
 import textwrap
 import threading
 
-#def execute(cmd):
+def execute(cmd):
